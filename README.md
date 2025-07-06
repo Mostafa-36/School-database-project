@@ -14,7 +14,7 @@ This project is a **relational database system** for managing a school's core da
 
 This project includes a full **mapping diagram** that shows how the ERD was translated into normalized SQL tables:
 
-![Mapping Diagram](./docs/mapping.png)
+![Mapping Diagram](./docs/Mapping.png)
 
 ### Includes:
 
